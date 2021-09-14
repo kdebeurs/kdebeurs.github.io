@@ -4,12 +4,7 @@
 
 See an overview map of our nine cities here (https://arcg.is/0KTWvT)
 
-<iframe src="uok.maps.arcgis.com/apps/Embed/index.html" height="500" width="500"></iframe>
 
-<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Central Asia - Cities" src="//uok.maps.arcgis.com/apps/Embed/index.html?webmap=539448b5840d4235950ca5d92e0aaadf&extent=59.811,36.7197,81.509,46.497&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
-
-
-<iframe src="/files/html/posts/predoc_map.html" height="600px" width="100%" style="border:none;"></iframe> 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
