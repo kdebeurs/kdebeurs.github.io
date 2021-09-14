@@ -4,7 +4,7 @@
 
 **Overview map of our nine cities (click to see the map in its own website):**
 
-[![Central Asia Cities](images/CentralAsiaCities.png)](https://arcg.is/0KTWvT)
+[![Central Asia Cities](images/CentralAsiaCities.png)](https://arcg.is/H4ye1)
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
