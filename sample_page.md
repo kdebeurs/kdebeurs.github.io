@@ -1,6 +1,10 @@
-## This can be your internal website page / project page
+## NASA Central Asia Project / project page
 
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Overview map of our nine cities (click to see the map in its own website):**
+
+[![Central Asia Cities](images/CentralAsiaCities.png)](https://arcg.is/H4ye1)
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
